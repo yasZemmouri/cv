@@ -4,8 +4,8 @@ const Header = () => {
     return (
         <header className="container">
             <div className="name">
-                {/* <h1>{name} Zemmouri <span>Web Developer</span></h1> */}
-                hello
+                <h1>Zemmouri <span>Web Developer</span></h1>
+                
             </div>
         </header>
     
