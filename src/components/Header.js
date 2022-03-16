@@ -1,7 +1,6 @@
 import React from 'react';
 
-const Header = ({name, setName}) => {
-    setName('Max');
+const Header = () => {
     return (
         <header className="container">
             <div className="name">
