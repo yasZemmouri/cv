@@ -1,0 +1,7 @@
+use variables for color
+deploy on heruku
+---------------------------------------
+where to put css??
+work on {... objects} and the two methods shown in node js
+when to use a and when to use link???
+favicon

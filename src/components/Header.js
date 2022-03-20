@@ -1,10 +1,8 @@
-import React from 'react';
-
-const Header = () => {
+const Header = ({fName, lName, title}) => {
     return (
         <header className="container">
             <div className="name">
-                <h1>Zemmouri <span>Web Developer</span></h1>
+                <h1>{fName} {lName} <span>{title}</span></h1>
                 
             </div>
         </header>
